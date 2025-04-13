@@ -170,7 +170,6 @@ export const themeConfig: ThemeConfig = {
     customGoogleAnalyticsJS: "",
     // custom umami analytics js
     // for users who deploy umami on their own, or route analytics javascript to a customized domain
-    // see https://github.com/umami-software/umami/discussions/1026
     customUmamiAnalyticsJS: "",
   },
   // PRELOAD SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END
