@@ -7,6 +7,7 @@ pin: 1
 toc: false
 lang: es
 abbrlink: markdown-style-guide
+draft: true
 ---
 
 Aquí hay algunos ejemplos básicos de sintaxis Markdown y sus efectos estilísticos en el tema Retypeset.
