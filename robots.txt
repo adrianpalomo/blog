@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.adrianpalomo.com/sitemap-index.xml
